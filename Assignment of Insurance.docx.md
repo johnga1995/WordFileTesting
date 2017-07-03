@@ -26,9 +26,13 @@ such insurance policies, subject only to the rights of any prior
 encumbrancers. This shall be good, sufficient and irrevocable authority
 to such insurers to do so.
 
-**DATED** at \_\_\_\_\_\_\_\_\_\_\_\_\_, this \_\_\_\_\_ day of
-February, 2017.
+**DATED** at \_\_\_\_\_\_\_\_\_\_\_\_\_, this \_\_\_\_\_ day of July,
+2017.
 
 «INSERT "Signature Block Borrower.DOCX"»
+
+> I want to add more text here because it is necessary.
+>
+> This is just **another** paragraph *with* some **words**.
 
 •
